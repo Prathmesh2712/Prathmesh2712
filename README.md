@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js,Node js,Express js,Next js**
 
-- 📫 How to reach me **cpratham1954@gmail.com**
+- 📫 How to reach me **prathmeshchougule2702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
