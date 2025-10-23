@@ -13,7 +13,7 @@ A **passionate software engineer & Web Developer** with expertise in **competiti
 <h4>
 <p >
 
-  Upcoming SDE-1 <a href="https://www.bridgenext.com/">BridgenNext
+  SDE-1 at <a href="https://www.bridgenext.com/">BridgenNext
   </a>
    <img  src="https://s.yimg.com/ny/api/res/1.2/bF4bSBEXDULk7XoP3unP8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODM-/https://media.zenfs.com/en/business-wire.com/0d0300418c9eede45f9e88281aaba65b" width="30">
 </p>
