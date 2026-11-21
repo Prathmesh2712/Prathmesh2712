@@ -1,211 +1,214 @@
+# Hi there! 👋 I'm Prathmesh Chougule
 
-<div>
+<img align="right" src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif" width="24%">
 
-## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Prathmesh Chougule
+**Software Development Engineer | Backend-Focused Full-Stack Developer**
 
-<img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
+I'm a Software Development Engineer with **2+ years of experience** building backend services, event-driven microservices, and scalable web applications. I primarily work with **Node.js, NestJS, GraphQL, Kafka, and MSSQL**, and enjoy solving complex backend problems, designing APIs, and learning about system design.
 
-A **passionate software engineer & Web Developer** with expertise in **competitive coding, software development & MERN Stack**, and actively enhacing my Web Development Skills.
+- 💻 Currently working as an **SDE @ BridgeNext**
+- 🚀 Working on backend services, microservices, and distributed systems.
+- 🏆 Recognized with **5× Spark Awards** for engineering contributions.
+- 🧠 Passionate about Data Structures, Algorithms, and System Design.
+- 🌱 Always exploring new technologies and improving my engineering skills.
 
-</div>
+---
 
+## 💼 Professional Experience
 
-<h4>
-<p >
+### Software Development Engineer — BridgeNext
+**May 2026 – Present | Remote**
 
-  SDE-1 at <a href="https://www.bridgenext.com/">BridgenNext
-  </a>
-   <img  src="https://s.yimg.com/ny/api/res/1.2/bF4bSBEXDULk7XoP3unP8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODM-/https://media.zenfs.com/en/business-wire.com/0d0300418c9eede45f9e88281aaba65b" width="30">
-</p>
+- Optimized 5+ complex MSSQL queries, reducing average execution time by ~40% and production CPU usage by 25%.
+- Improved API response times by 35% through Redis caching and payload compression.
+- Developed NestJS scheduled jobs to automate recurring database updates.
+- Contributed to CI/CD pipelines using GitHub Actions and Docker.
+- Created technical documentation, architecture diagrams, and internal knowledge bases.
 
+### Associate Software Development Engineer — BridgeNext
+**November 2024 – May 2026 | Remote**
 
-<p >
+- Built and maintained NestJS microservice templates within an Nx monorepo, promoting code reuse and modularity.
+- Developed and optimized complex SQL stored procedures using dynamic filters, joins, and aggregations.
+- Implemented Kafka-based messaging workflows, including producers, consumers, topic configuration, and message schema validation.
+- Developed reusable and responsive UI components using React.js and React Hooks.
 
-  Ex-SWE Intern <a href="https://www.starktechventures.com/">Stark Tech Ventures Pvt. Ltd
-  </a>
-   <img  src="https://www.starktechventures.com/assets/img/STARK%20TECH%20LOGO.png" width="30">
-</p>
+### Trainee Software Development Engineer — BridgeNext
+**August 2024 – October 2024 | On-site**
 
-<p>
+- Developed backend features and REST APIs using Node.js and Express.js.
+- Worked with databases, API integrations, and debugging to strengthen backend development skills.
 
-  B.Tech. CE 2020-2024 <a href="https://www.ddu.ac.in/">Rajarambapu Institute of Technology</a>
-   <img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" width="20">
-</p>
+### Software Development Intern — Stark Tech Ventures Pvt. Ltd.
+**January 2024 – July 2024 | On-site**
 
-<p style="margin-top:20px">
+- Worked on web application development using HTML, CSS, JavaScript, and React.js.
+- Gained hands-on experience in frontend development, component-based architecture, and API integration.
 
-  Campus Executive of <a href="https://www.tcs.com/">IIT Bombay</a>
-<img src="https://media.giphy.com/media/d33yf9SI1RsdSA0H7u/giphy.gif" width="30">  
-</p>  
+---
 
+## 🛠️ Tech Stack & Skills
 
-</h4>
-<br/>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-[![Twitter: Prathmesh Chougule](https://img.shields.io/twitter/follow/Pratham138?style=social)](https://twitter.com/Pratham138)
-[![Linkedin: Prathmesh Chougule ](https://img.shields.io/badge/--prathmesh--chougule--866a7b204-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-chougule-866a7b204/)](https://www.linkedin.com/in/prathmesh-chougule-866a7b204/)
-[![GitHub Prathmesh Chougule](https://img.shields.io/github/followers/Prathmesh2712?label=follow&style=social)](https://github.com/Prathmesh2712)
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Databases & Caching
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="50"> A little more about me...  
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
+---
+
+## 🧠 What I Work With
 
 ```javascript
-var Prathmesh_Chougule = {
-  pronouns: "he" | "him",
-  code: [ Java, C++, Javascript, TypeScript ],
-  tools: [ Docker, Kubernetes ,Git, GitHub, PostMan, VS Code, IntelliJ],
-  frameworks: [ React-Js, Node-Js, Express-Js, Nest-Js, Next-Js ],
-  experience: {
-    upcomingInternship: "SWE Intern @ Bridgenext",
-    formerInternship: "SDE Intern @ Stark Tech Ventures Pvt. Ltd",
-  },
-  competitiveProgrammingSkills: {
-    CodingNinja: "Master (1854)",
-    LeetCode: "3 ⭐ (1761)"
-  },
-  about: "I am a computer science undergrad & Software Engineer who is passionate about learning and creating solutions.\n
-          I have worked with web, mobile, and have experience in Machine Learning.\n
-          Currently, I am exploring many horizons and participating in competitive programming."
-}
+const prathmesh = {
+  role: "Software Development Engineer",
+  company: "BridgeNext",
 
+  experience: "2+ years",
 
+  backend: [
+    "Node.js",
+    "NestJS",
+    "Express.js",
+    "GraphQL",
+    "REST APIs"
+  ],
+
+  distributedSystems: [
+    "Microservices",
+    "Apache Kafka",
+    "Event-Driven Architecture"
+  ],
+
+  databases: [
+    "MSSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis"
+  ],
+
+  frontend: [
+    "React.js",
+    "JavaScript",
+    "TypeScript"
+  ],
+
+  tools: [
+    "Docker",
+    "Git",
+    "GitHub Actions",
+    "Postman"
+  ],
+
+  interests: [
+    "System Design",
+    "Backend Engineering",
+    "Problem Solving",
+    "Competitive Programming"
+  ]
+};
 ```
 
+---
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
-![Prathmesh-Chougule github stats](https://github-readme-stats.vercel.app/api?username=Prathmesh2712&show_icons=true)  
+## 🏆 Achievements
 
+- Received **5× Spark Awards** at BridgeNext for engineering contributions and collaboration.
+- Achieved a global rank of **7,500 in Google Kick Start**.
+- Secured **7,500 rank among 90,500+ participants** in PrepSAT 2023.
+- Solved **500+ coding problems** across competitive programming platforms.
+- Actively practice Data Structures and Algorithms to improve problem-solving skills.
 
-## Competitive Programming
+---
 
-I have a strong passion for competitive programming and have achieved significant milestones in various coding platforms:
+## 🚀 Featured Projects
 
-- CodingNinja: Master (1854 max rating)
-- Leetcode: 3 ⭐ (1761 max rating, top 9%)
+### 1. Video Chat App
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Prathmesh2712/Video-chat-app)
 
-## Education
+- **Tech Stack:** React.js, Express.js, WebRTC, Socket.IO.
+- Built a real-time video chat application with seamless peer-to-peer communication and video conferencing features.
 
-- B.Tech. in Computer Engineering (Final Year) - Rajarambapu Institute of Technology, Islampur (CPI: 8.23/10.0)
-- HSC (11-12 Science) - S.T Patil Jr College, Kodoli (82.21%)
-- SSC - Shree Parashar HighSchool Pargaon (88.80%)
+### 2. TechNexus – Social Media Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Prathmesh2712/TechNexus-Social-Media)
 
-## Achievements
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
+- Developed a social media platform for computer engineers to connect, share posts, interact, and expand their professional network.
 
-- Highest rating of 1702 at LeetCode, ranking among the top participants globally.
-- Google Kickstart Global Rank 7000 
-- Successfully solved more than 700+ problems across various programming platforms
-- Achieved a notable rank of 7500 out of 90500+ participants in PrepSAT-2023.
+### 3. Poultry Bird Counting & Weighing System
 
+- **Tech Stack:** Python, YOLOv8, Image Processing, Arduino Uno.
+- Developed a computer vision-based system for automated poultry bird detection, counting, and weighing.
 
-## Skills
+---
 
-- Competitive Coding
-- Programming Languages: Core Java, C++,JavaScript,Typescript
-- Web & Software Development: Node.js, Express.js, React, Nest.Js
-- Tools: Docker, Kubernetes,Git, GitHub, Postman, GraphQL
-- Techstack: MERN Stack
-- Database: MongoDB, MySQL,MSSQL
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh2712&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh2712&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh2712&theme=tokyonight"/>
+</p>
 
-## Projects
+---
 
-Here are some noteworthy projects I've worked on:
+## 🎓 Education
 
+**B.Tech – Computer Engineering**  
+Rajarambapu Institute of Technology, Islampur  
+January 2021 – June 2024  
+CGPA: **8.31/10**
 
+---
 
-1. **Poultry Bird Counting and Weighing System** (Android) [Source Code](https://#)
-   - Tech stack: Python ,Image Processing, Arduino-Uno
-   - Description: Designed and implemented a poultry bird counting and weighing system using YOLOv8, integrating computer vision for
-accurate identification and tracking. Enhanced efficiency in poultry management, ensuring precise data collection for
-optimal production processes
+## 🤝 Let's Connect
 
-2. **TechNexus-Social-Media** (Web) [Source Code](https://github.com/Prathmesh2712/TechNexus-Social-Media)
-   - Tech stack: React-js,Express-js,Node-js,MongoDB
-   - Description:  TechNexus is a social media platform designed exclusively for computer engineers. Built with Express.js, Node.js,
-React.js, and MongoDB, it empowers professionals to connect, share insights, post updates, and expand their network.
-With features like posting photos, adding friends, and more, TechNexus revolutionizes networking for the tech community
+I'm always open to connecting with developers, discussing backend engineering, exploring new technologies, and collaborating on interesting projects.
 
-3. **Video Chat App** (Web) [Source Code](https://github.com/Prathmesh2712/Video-chat-app)
-   - Tech stack: React-jS,Express-js,WebRTC
-   - Description: Developed a real-time video chat app using React.js for frontend UI/UX and Express.js for backend functionalities.
-Leveraged WebRTC for seamless communication. Implemented features for smooth video conferencing experience,
-demonstrating proficiency in full-stack web development.
+<p align="left">
+  <a href="https://www.linkedin.com/in/prathmesh-chougule-866a7b204/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Prathmesh2712">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:cpratham1954@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-## Get in Touch
+<p align="center">
+  <b>Keep Learning. Keep Building. Keep Growing. 🚀</b>
+</p>
 
-If you have any questions or would like to collaborate, reach out to me. I'm always excited to discuss new ideas and opportunities.
-
-- Email: [cpratham1954@gmail.com](mailto:cpratham1954@gmail.com)
-- LinkedIn: [@prathmesh-chougule LinkedIn](https://www.linkedin.com/in/prathmesh-chougule-866a7b204/)
-- Twitter: [@Prathmesh Twitter](https://twitter.com/Pratham138)
-  
-
-
-
-
-## Competencies
-
-
-Here are my key competencies and skills:
-
-- ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![cpp](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web & Software Development
-
-- ![node](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-- ![react](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-
-
-### Cloud Technologies
-
-- ![docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-- ![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
-### Version Control
-
-- ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-- ![github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-
-### Testing
-
-- ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
-
-
-
-
-
-## More About Me
-
-<!--
-- 🔭 I’m currently working on: Competitive programming
-- 🌱 I’m currently learning: Competitive programming
-- 👯 I’m looking to collaborate on: Competitive programming projects
-- 🤔 I’m looking for help with: Competitive programming challenges
-- 💬 Ask me about: Competitive programming or any coding-related questions
-- 📫 How to reach me: Feel free to connect with me for any competitive programming discussions
-- 😄 Challenge, fun, joy lie in: Competitive programming
-- ⚡ Fun fact: Competitive programming is my passion!
--->
-
--  🔭 I’m currently working on: Web Development
-- 🌱 I’m currently learning: Web Development
-- 👯 I’m looking to collaborate on: Web Development Projects
-- 🤔 I’m looking for help with: Web Development Challanges
-- 💬 Ask me about: Web Development or any coding-related questions
-- 📫 How to reach me: Feel free to connect with me for any Web Development discussions
-- 😄 Challenge, fun, joy lie in: Web Development
-- ⚡ Fun fact: Web Development is my passion!
-
-Let's dive into the exciting world of AI together!
-
-Stay curious and keep coding! 😄
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prathmesh2712">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathmesh2712&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
